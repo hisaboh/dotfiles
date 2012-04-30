@@ -1,0 +1,3 @@
+ln -s zshrc/.zshrc ~/.zshrc
+ln -s zshrc/setting.zsh ~/.oh-my-zsh/custom/setting.zsh
+
